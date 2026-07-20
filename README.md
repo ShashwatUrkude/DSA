@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShashwatUrkude/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ShashwatUrkude/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ShashwatUrkude/DSA/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/ShashwatUrkude/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShashwatUrkude/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ShashwatUrkude/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShashwatUrkude/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ShashwatUrkude/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ShashwatUrkude/DSA/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
