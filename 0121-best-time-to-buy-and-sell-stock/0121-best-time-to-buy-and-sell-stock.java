@@ -6,11 +6,19 @@ class Solution {
 
         for(int i = 1;i<prices.length;i++)
         {
-            minprice = Math.min(minprice,prices[i]);
+           if(minprice > prices[i])
+           {
+                minprice = prices[i];
+           }
+           else
+           {
+                int profit = prices[i] - minprice;
 
-            int profit = prices[i] - minprice;
-
-            maxprofit = Math.max(maxprofit, profit);
+                if(maxprofit < profit)
+                {
+                    maxprofit = profit;
+                } 
+           }
         }
         return maxprofit;
     }
