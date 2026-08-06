@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ShashwatUrkude/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ShashwatUrkude/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ShashwatUrkude/DSA/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShashwatUrkude/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ShashwatUrkude/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShashwatUrkude/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ShashwatUrkude/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShashwatUrkude/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ShashwatUrkude/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShashwatUrkude/DSA/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShashwatUrkude/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShashwatUrkude/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShashwatUrkude/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShashwatUrkude/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ShashwatUrkude/DSA/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShashwatUrkude/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
