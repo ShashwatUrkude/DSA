@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShashwatUrkude/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ShashwatUrkude/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ShashwatUrkude/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/ShashwatUrkude/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ShashwatUrkude/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShashwatUrkude/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ShashwatUrkude/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ShashwatUrkude/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ShashwatUrkude/DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/ShashwatUrkude/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
