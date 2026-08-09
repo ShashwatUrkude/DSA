@@ -1,17 +1,20 @@
 class Solution {
-
-    public int fibo(int n)
+    public int fib(int n) 
     {
-        if(n <= 1)
+        if (n <= 1)
         {
             return n;
         }
+        
+        int a = 0, b = 1;
 
-        return fibo(n-1) + fibo(n-2);
-    }
-
-    public int fib(int n) 
-    {
-        return fibo(n);
+        for (int i = 2; i <= n; i++) 
+        {
+            int temp = a + b;
+            a = b;
+            b = temp;
+        }
+        return b;
     }
 }
+            
