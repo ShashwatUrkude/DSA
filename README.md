@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShashwatUrkude/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShashwatUrkude/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ShashwatUrkude/DSA/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/ShashwatUrkude/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/ShashwatUrkude/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ShashwatUrkude/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ShashwatUrkude/DSA/tree/master/0724-find-pivot-index) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShashwatUrkude/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShashwatUrkude/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ShashwatUrkude/DSA/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/ShashwatUrkude/DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/ShashwatUrkude/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShashwatUrkude/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ShashwatUrkude/DSA/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/ShashwatUrkude/DSA/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -149,4 +152,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShashwatUrkude/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ShashwatUrkude/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ShashwatUrkude/DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ShashwatUrkude/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ShashwatUrkude/DSA/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ShashwatUrkude/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
